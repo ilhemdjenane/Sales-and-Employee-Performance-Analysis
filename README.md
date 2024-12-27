@@ -1,18 +1,28 @@
 # Employee and Sales Performance Analysis Report
 
-**Executive Summary:**
+## Table of Contents
+- [Executive Summary](#Executive-Summary)
+- [Overview of Dashboards](#Overview-of-Dashboards)
+- [Dataset Overview](#Dataset-Overview)
+- [Key Findings, Analysis and Indentified Business Problems](#Key-Findings,-Analysis-and-Indentified-Business-Problems)
+- [Analysis and Identified Business Problems](#Analysis-and-Identified-Business-Problems)
+- [Suggested Solutions & Actionable Recommendations to Address Business Problems](#Suggested-Solutions-&-Actionable-Recommendations-to-Address-Business-Problems)
+- [Conclusion](#Conclusion)
+
+
+## Executive Summary:
 This report provides a comprehensive analysis of employee performance and sales insights based on dashboards created from a detailed dataset. The visualizations showcase contributions by employees, 
 regional sales distribution, job title performance, and order type patterns. The analysis highlights key trends, outliers, and actionable insights to guide strategic decision-making for enhancing 
 sales performance.
 
 ---
 
-**1. Overview of Dashboards**
+## Overview of Dashboards
 
 The project comprises two dashboards:
 
 
-## Sales Insights Dashboard: 
+### Sales Insights Dashboard: 
 Provides insights into regional, state, and product-level performance, emphasizing top-performing regions, employees, and states. It also highlights 
 the impact of the number of employees in regions and the resulting sales in those regions, offering valuable context for resource allocation and workforce planning. Additional 
 charts, including sales by category and sales by product, provide a detailed breakdown of revenue contributions by product type, revealing that Mineral Water dominates sales, 
@@ -21,7 +31,7 @@ followed by Supplements and Fitness products.
 
 ![Dashboard](https://github.com/ilhemdjenane/Sales-and-Employee-Performance-Analysis/blob/c2dafb542af0afb9fd9067517942a86807173895/Sales%20Insights%202.jpeg)
 
-## Employee Performance Dashboard: 
+### Employee Performance Dashboard: 
 Focuses on details about the employees and their sales performance, providing granular insights into individual contributions,
 job title-specific performance, and overall employee impact on sales. This dashboard utilizes bar charts to showcase sales by employee name, emphasizing top
 performers such as Paul Turner and Nicole Hansen. Additionally, treemap visualizations illustrate the distribution of total sales by various job titles, highlighting
@@ -49,7 +59,7 @@ Customer Details: Includes Customer IDs, Names, and Types (Individual vs. Corpor
 The dataset spans a two-year period (2021-2022), enabling temporal analysis of sales trends and employee performance. This structured data forms the basis for the insights presented in the dashboards.
 
 
-**2. Key Findings, Analysis and Indentified Business Problems**
+## Key Findings, Analysis and Indentified Business Problems
 
 ### Analysis and Identified Business Problems
 
@@ -78,7 +88,7 @@ The dataset spans a two-year period (2021-2022), enabling temporal analysis of s
 
 - **Lowest Sales Month**: July and October typically experiences the low sales,  $72,657 in July 2022 and $67,345 in October 2021. This slump can be linked to consumer focus on summer vacations and outdoor activities, resulting in reduced shopping. A lack of targeted summer promotions may also contribute to this decline. And the dip in sales in October is likely due to the gap between back-to-school spending in September and the onset of holiday shopping in November. Consumer spending during this time may be restrained as individuals prepare for end-of-year expenses.
 
-### Suggested Solutions & Actionable Recommendations to Address Business Problems
+## Suggested Solutions & Actionable Recommendations to Address Business Problems
 
 - **Boost Regional Performance**:
 
@@ -122,7 +132,7 @@ The dataset spans a two-year period (2021-2022), enabling temporal analysis of s
 ---
 
 
-**3. Conclusion**
+## Conclusion
 
 The dashboards and analysis underscore the critical factors influencing sales performance, including employee contributions, regional effectiveness, and product demand. By focusing on the recommendations provided, businesses can optimize performance, increase revenue, and address gaps in underperforming areas. These insights are vital for strategic decision-making and driving organizational growth.
 
