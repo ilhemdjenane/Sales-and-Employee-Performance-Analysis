@@ -47,60 +47,78 @@ Customer Details: Includes Customer IDs, Names, and Types (Individual vs. Corpor
 The dataset spans a two-year period (2021-2022), enabling temporal analysis of sales trends and employee performance. This structured data forms the basis for the insights presented in the dashboards.
 
 
-**2. Key Findings and Insights**
+**2. Key Findings, Analysis and Indentified Business Problems**
+
+### Analysis and Identified Business Problems
 
 **a. Employee Performance**:
-- **Top Employees**: Paul Turner emerged as the highest-performing employee, contributing significantly to sales. His performance aligns with the overall trend of high contributions from senior-level job titles.
-- **Job Title Contributions**: Sales Associates at various levels accounted for a substantial portion of total sales, with Senior Sales Associates generating the highest revenue per employee.
+- **Top Employees**: Paul Turner emerged as the highest-performing employee, contributing significantly to sales, generated $100,645 in sales, while others have significantly lower contributions.
+- **Job Title Contributions**: Sales representetive at various levels accounted for the highest portion of total sales.
+- **Problem**: The disparity in employee performance might be linked to inadequate training, differences in client engagement, or unequal distribution of resources and opportunities.
 
 **b. Regional and State Analysis**:
 - **Top Region**: The South Central East region leads with $475K in total sales, surpassing all other regions. This region’s dominance suggests strong customer demand and effective sales strategies.
 - **Top State**: Texas recorded the highest state-level sales, driven by a combination of high population and effective employee contributions.
 - **Underperforming Regions**: The North Central West region showed the lowest sales ($22K), indicating potential gaps in market penetration or resource allocation.
 
+- **Problem**: The lack of sales in underperforming regions could be due to insufficient marketing, limited employee presence, or poor customer outreach strategies.
+
 **c. Product-Level Insights**:
-- **Product Performance**: Mineral Water emerged as a top-performing category, accounting for significant revenue.
-- **Order Type**: Retail sales dominate (78.5%), highlighting the importance of individual customers in driving revenue. Wholesale (21.5%) still represents a growth opportunity.
+- **Product Performance**: Mineral Water emerged as a top-performing category, accounting for $1.25M in sales, dominating over Supplements ($619K) and Fitness products ($464K).
+- **Order Type**: Wholesale sales dominate (78.5%), highlighting the importance of bulk transactions in driving revenue. Retail (21.5%) still represents a growth opportunity.
+
+- **Problem**: Heavy reliance on one product category could expose the business to risks if market trends shift. Additionally, opportunities for growth in Supplements and Fitness may be underexplored.
 
 **d. Sales Trends**:
 - **Monthly Performance**: Sales peaked in early 2022, with consistent performance trends visible across months.
 - **Impact of Employee Count**: A positive correlation between employee count and regional sales suggests that workforce size significantly influences sales output.
+- **Highest Sales** Month: December consistently records the highest sales, with a peak of $136,874 in 2022. This is attributed to the holiday season, which drives increased consumer spending for festive shopping, gift-giving, and end-of-year corporate budget allocations. Both retail and wholesale transactions see a significant uptick during this time.
 
----
+- **Lowest Sales Month**: July and October typically experiences the low sales,  $72,657 in July 2022 and $67,345 in October 2021. This slump can be linked to consumer focus on summer vacations and outdoor activities, resulting in reduced shopping. A lack of targeted summer promotions may also contribute to this decline. And the dip in sales in October is likely due to the gap between back-to-school spending in September and the onset of holiday shopping in November. Consumer spending during this time may be restrained as individuals prepare for end-of-year expenses.
 
-**3. Actionable Recommendations**
+### Suggested Solutions & Actionable Recommendations to Address Business Problems
 
-**a. Regional Focus:**
+- **Boost Regional Performance**:
+
+- Deploy targeted marketing campaigns in underperforming regions, such as the North Central West.
 - Increase marketing and resource allocation in underperforming regions like North Central West to boost sales.
 - Leverage strategies employed in South Central East for broader regional application.
 
-**b. Employee Development:**
+
+- Reassess employee deployment and increase the workforce presence in low-performing areas.
+
+- Investigate regional customer needs and tailor product offerings accordingly.
+
+- **Improve Employee Productivity**:
+
+- Analyze strategies employed by top performers like Paul Turner and replicate them through training sessions for others.
+
+- Introduce performance-based incentives to motivate employees across regions.
 - Recognize and reward top performers like Paul Turner to encourage continued excellence.
-- Train Sales Associates to adopt strategies used by Senior Sales Associates to improve performance across roles.
 
-**c. Product and Customer Strategy:**
-- Expand the product portfolio based on the success of Mineral Water and similar categories.
-- Target wholesale customers more aggressively to increase their contribution to total sales.
+- Implement tools to enhance customer engagement, such as CRM systems, and provide employees with better sales analytics.
 
-**d. Temporal Strategy:**
+- **Diversify Product Portfolio**:
+
+- Develop and market Supplements and Fitness products more aggressively to balance revenue distribution across categories.
+
+- Introduce new variations or packaging sizes in these categories to appeal to diverse customer segments.
+
+- Monitor market trends to identify emerging product opportunities.
+
+- **Mitigate Risks from Product Reliance**:
+
+- Ensure Mineral Water maintains its market dominance through consistent quality and competitive pricing.
+
+- Explore adjacent product categories or partnerships that complement existing strengths.
+
+- **Temporal Strategy:**
 - Develop seasonal campaigns to capitalize on months with historically high sales.
 - Use sales trends to forecast and prepare for demand fluctuations.
 
----
-
-**4. Visualization Highlights**
-
-**Employee Performance Dashboard**:
-- Sales by Employee Name: Bar charts highlighted top contributors like Paul Turner and Nicole Hansen.
-- Sales by Job Title: A treemap visualization showed significant contributions from Sales Associates across levels.
-- Sales Over Time: A line graph illustrated monthly sales trends, enabling trend analysis and forecasting.
-
-**Sales Insights Dashboard**:
-- Regional Sales: A bar chart revealed South Central East as the top-performing region.
-- State-Level Analysis: A geographic heatmap provided a clear representation of sales distribution by state.
-- Order Type Breakdown: A pie chart emphasized the dominance of retail sales.
 
 ---
+
 
 **5. Conclusion**
 
