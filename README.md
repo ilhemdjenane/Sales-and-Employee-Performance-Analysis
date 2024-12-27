@@ -12,21 +12,23 @@ sales performance.
 The project comprises two dashboards:
 
 
-**Sales Insights Dashboard**: Provides insights into regional, state, and product-level performance, emphasizing top-performing regions, employees, and states. It also highlights 
+## Sales Insights Dashboard: 
+Provides insights into regional, state, and product-level performance, emphasizing top-performing regions, employees, and states. It also highlights 
 the impact of the number of employees in regions and the resulting sales in those regions, offering valuable context for resource allocation and workforce planning. Additional 
 charts, including sales by category and sales by product, provide a detailed breakdown of revenue contributions by product type, revealing that Mineral Water dominates sales, 
 followed by Supplements and Fitness products.
 
- ## Dashboard 
+
 ![Dashboard](https://github.com/ilhemdjenane/Sales-and-Employee-Performance-Analysis/blob/c2dafb542af0afb9fd9067517942a86807173895/Sales%20Insights%202.jpeg)
 
-**Employee Performance Dashboard**: Focuses on details about the employees and their sales performance, providing granular insights into individual contributions,
+## Employee Performance Dashboard: 
+Focuses on details about the employees and their sales performance, providing granular insights into individual contributions,
 job title-specific performance, and overall employee impact on sales. This dashboard utilizes bar charts to showcase sales by employee name, emphasizing top
 performers such as Paul Turner and Nicole Hansen. Additionally, treemap visualizations illustrate the distribution of total sales by various job titles, highlighting
 the significant impact of Senior Sales Associates. The temporal analysis through line graphs offers a month-by-month breakdown of employee-driven sales trends,
 enabling businesses to identify seasonal patterns and optimize workforce allocation.
 
- ## Dashboard Overview
+
 ![Dashboard](https://github.com/ilhemdjenane/Sales-and-Employee-Performance-Analysis/blob/c2dafb542af0afb9fd9067517942a86807173895/Employee%20Dashboard.jpeg)
 
 ---
