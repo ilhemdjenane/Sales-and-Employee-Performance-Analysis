@@ -17,7 +17,7 @@ the impact of the number of employees in regions and the resulting sales in thos
 charts, including sales by category and sales by product, provide a detailed breakdown of revenue contributions by product type, revealing that Mineral Water dominates sales, 
 followed by Supplements and Fitness products.
 
- ## Dashboard Overview
+ ## Dashboard 
 ![Dashboard](https://github.com/ilhemdjenane/Sales-and-Employee-Performance-Analysis/blob/c2dafb542af0afb9fd9067517942a86807173895/Sales%20Insights%202.jpeg)
 
 **Employee Performance Dashboard**: Focuses on details about the employees and their sales performance, providing granular insights into individual contributions,
